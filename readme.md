@@ -1,6 +1,5 @@
-Material Science literature simpler 
+# Material Science literature simpler 
 
-
-PDF extractor with the use of py2PDF
+This is a simple report maker whose main function is to simplify research papers and provide a report in MARKDOWN format
 
 
